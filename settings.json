@@ -8,7 +8,7 @@
   "server": {
     "ip": "Eznope.aternos.me",
     "port": 30631,
-    "version": "1.21.1"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
